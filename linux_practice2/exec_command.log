@@ -1,0 +1,1 @@
+1 git status 2 cd server_lesson 3 cd root 4 cd server_lesson 5 cd linux_practice2 6 git status 7 cat .gitignore 8 vi .gitignore 9 git add . 10 git status 11 echo history 300 > exec_command.log 12 cat exec_command.log 13 echo '# history 300' > exec_command.log 14 cat exec_command.log 15 history 300 16 echo `history 300` > exec_command.log
